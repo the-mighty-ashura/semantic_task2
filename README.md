@@ -1,6 +1,7 @@
 ## Semantic Similarity Example
 
-This project demonstrates the usage of spaCy library for semantic similarity calculations.
+This project demonstrates the usage of spaCy library. This is a system that will tell you what to watch
+next based on the word vector similarity of the description of movies
 
 ### Running the Code
 
